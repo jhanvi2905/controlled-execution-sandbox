@@ -27,7 +27,7 @@ Python-based restricted execution sandbox with basic threat detection and input 
 
  ## Screenshots
  ### Safe Execution of Input
- ![Safe Execution of Input](screenshots/1.Safe_execution_of_input.png)
+ ![Safe_Execution of Input](Screenshots/1.Safe_execution_of_input.png)
 
  ### Blocking System Access Attempt
  ![Blocking System Access Attempt](Screenshots/2.Blocking_system_access_attempt.png)
